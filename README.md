@@ -1,31 +1,32 @@
-[English](./README-en.md)
 
-## 主题介绍
+[TOC]
 
-[purple.css](purple.css) 是紫色调：
+# typora-purple-theme
 
-![purple.css](./ScreenShots/1.png)
+[English](README-en.md)
 
-[purple-plain.css](purple-plain.css) 是 ~~黑长直~~ 黑色调
+> `简单, 干净`,  一个**[紫色]()**的 Typora 主题
 
-![purple-plain.css](./ScreenShots/2.png)
 
-## 关于字体
 
-1. 标题使用衬线(Serif)字体，比如：Noto Serif
-2. 正文使用非衬线(Sans)字体，比如：Mac/Ubuntu/Windows 系统字体，[Helvetica Neue](https://freefontsdownload.net/free-helveticaneue-font-74318.htm)等
-3. 代码使用等宽字体，比如：[JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+## 简介
 
-## 更多效果：
+[Typora](https://www.typora.io/)是一款支持实时预览的 Markdown 编辑器和阅读器，支持`Windows`、`macOS`、`Linux`三大平台。Typora 作为一款合格的 Markdown 编辑器，支持图片、列表、表格、代码、公式、目录等功能，同时这款软件还支持（一键）动态预览功能，让一切都变得如此干净、纯粹。并且有多种主题模板。
 
-![3](./ScreenShots/3.png)
 
-![4](./ScreenShots/4.png)
 
-![5](./ScreenShots/5.png)
+## 安装主题<img src="Tests/assets/e.jpg" width=25% align=right hspace="5" vspace="5"/>
 
-![6](./ScreenShots/6.png)
+1. [下载](https://github.com/hliu202/typora-purple-theme)本主题中的`purple.css`文件；
 
-![7](./ScreenShots/7.png)
+2. 打开 Typora，点击“**偏好设置**” => “**打开主题文件夹**”按钮，将弹出 Typora 的主题文件夹；
 
-![8](./ScreenShots/8.png)
+3. 将下载好的`purple.css`放到 Typora 的主题文件夹中；
+
+4. 关闭并重新打开 Typora，从菜单栏中选择 “**主题**” => “**Purple**” 即可。
+
+
+
+
+> **鸣谢**: [typora-vue-theme](https://github.com/blinkfox/typora-vue-theme), [typora-theme-ursine](https://github.com/aCluelessDanny/typora-theme-ursine), [theigrams/My-typora-themes](https://github.com/theigrams/My-typora-themes), [typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus)
+
